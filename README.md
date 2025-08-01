@@ -10,14 +10,11 @@
 <h2 align="left">🛠️ Skills & Tools:</h2>
 <p align="left">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/kaliorg/kaliorg-icon.svg" alt="Kali Linux" width="40" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" alt="Kali Linux" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_nmap.svg" alt="Nmap" width="40" height="40"/></a>
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/metasploit.svg" alt="Metasploit" width="40" height="40"/></a>
 </p>
 
 ---
