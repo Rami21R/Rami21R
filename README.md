@@ -47,7 +47,7 @@
 <h2 align="left">📡 Let's Connect:</h2>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)  
-[![Twitter](https://x.com/rami_r211)  
+[![Twitter](https://img.shields.io/badge/-@rami_r211-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/rami_r211)    
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/your-username)  
 [![Instagram](https://img.shields.io/badge/-Instagram-e1306c?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your-username)
 
