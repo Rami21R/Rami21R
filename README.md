@@ -27,7 +27,6 @@
 - 🎓 I'm currently studying **Cybersecurity**
 - 🔍 Focused on Penetration Testing, Network Security, and Ethical Hacking
 - 🧪 Practicing in Virtual Labs like TryHackMe and Hack The Box
-- ⚙️ Experienced with Kali Linux, Wireshark, Metasploit, and Nmap
 - 💻 Also familiar with C++, HTML, and CSS
 - 🎯 Goal: Become a skilled Cybersecurity Analyst and Ethical Hacker
 - 🔐 Interested in Exploits, Malware Analysis, and OSINT
