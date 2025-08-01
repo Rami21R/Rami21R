@@ -9,7 +9,7 @@
 
 <h2 align="left">🛠️ Skills & Tools:</h2>
 <p align="left">
-  <a href="#"><img src="https://www.google.com/imgres?q=%D9%84%D9%88%D8%AC%D9%88%20%D9%83%D8%A7%D9%84%D9%8A&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2b%2FKali-dragon-icon.svg%2F2048px-Kali-dragon-icon.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AKali-dragon-icon.svg&docid=_-Jp1N_5cNY4GM&tbnid=kI7qIxqy7OmN9M&vet=12ahUKEwjYlua41OqOAxXNh_0HHUgVKZkQM3oECBIQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwjYlua41OqOAxXNh_0HHUgVKZkQM3oECBIQAA" alt="Linux" width="40" height="40"/></a>
+   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Kali-Linux-Logo.png" alt="Kali Linux" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
