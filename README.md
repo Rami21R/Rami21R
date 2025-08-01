@@ -10,7 +10,8 @@
 <h2 align="left">🛠️ Skills & Tools:</h2>
 <p align="left">
    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Kali-Linux-Logo.png" alt="Kali Linux" width="40" height="40"/></a>
+<a href="#"><img src="![Uploading image.png…]()
+" alt="Kali Linux" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
