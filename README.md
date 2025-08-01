@@ -9,14 +9,15 @@
 
 <h2 align="left">🛠️ Skills & Tools:</h2>
 <p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/kaliorg/kaliorg-icon.svg" alt="kali" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" alt="owasp" width="40" height="40"/></a>
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/metasploit.svg" alt="metasploit" width="40" height="40"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_nmap.svg" alt="nmap" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/kaliorg/kaliorg-icon.svg" alt="Kali Linux" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_nmap.svg" alt="Nmap" width="40" height="40"/></a>
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/metasploit.svg" alt="Metasploit" width="40" height="40"/></a>
 </p>
 
 ---
@@ -24,29 +25,34 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🎓 I'm currently studying **Cybersecurity**
-- 🔍 Interested in Penetration Testing, Network Security, and Ethical Hacking
-- 🧪 Experimenting with tools like Metasploit, Nmap, Burp Suite, and Wireshark
-- ⚙️ Practicing in Virtual Labs (TryHackMe / Hack The Box)
-- 🎯 Goal: Become a skilled Cybersecurity Analyst
-- 🚀 Always exploring new exploits & defense techniques
+- 🔍 Focused on Penetration Testing, Network Security, and Ethical Hacking
+- 🧪 Practicing in Virtual Labs like TryHackMe and Hack The Box
+- ⚙️ Experienced with Kali Linux, Wireshark, Metasploit, and Nmap
+- 💻 Also familiar with C++, HTML, and CSS
+- 🎯 Goal: Become a skilled Cybersecurity Analyst and Ethical Hacker
+- 🔐 Interested in Exploits, Malware Analysis, and OSINT
+- 🚀 Always learning, always hacking (ethically!)
 
 ---
 
 <h2 align="left">📚 Currently Learning:</h2>
 
-- Malware Analysis 🔬
-- Linux Hardening 🐧
-- Web App Security (OWASP Top 10) 🌐
-- Python for Hacking 🐍
+- Kali Linux Deep Dive
+- OWASP Top 10 & Web App Security
+- C++ for Cybersecurity Tools
+- Bash & Python for Automation
 
 ---
 
-<h2 align="left">:heart: Let's Connect:</h2>
+<h2 align="left">📡 Let's Connect:</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)  
 [![Twitter](https://img.shields.io/badge/-@your_twitter_handle-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/your_username)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/your-username)  
+[![Instagram](https://img.shields.io/badge/-Instagram-e1306c?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your-username)
 
 ---
 
-💡 *“The quieter you become, the more you can hear.” – Ram Dass*
+💡 *“Security is not a product, but a process.” – Bruce Schneier*
+
