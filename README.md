@@ -48,7 +48,7 @@
 
 
 [![Twitter](https://img.shields.io/badge/-@rami_r211-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/rami_r211)    
-[![Instagram](https://img.shields.io/badge/-@rami_rbehat21-e1306c?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rami_rbehat21)
+[![Instagram](https://img.shields.io/badge/-@rami_rbehat21-e1306c?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rami_rbehat21)<br>
 [![Gmail](https://img.shields.io/badge/-ramyalrbyhat418@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramyalrbyhat418@gmail.com)
 
 
