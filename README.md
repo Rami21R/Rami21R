@@ -46,9 +46,11 @@
 
 <h2 align="left">📡 Let's Connect:</h2>
 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)  
+
 [![Twitter](https://img.shields.io/badge/-@rami_r211-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/rami_r211)    
 [![Instagram](https://img.shields.io/badge/-@rami_rbehat21-e1306c?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rami_rbehat21)
+📧 **Email:** [ramyalrbyhat418@gmail.com](mailto:ramyalrbyhat418@gmail.com)
+
 
 
 ---
